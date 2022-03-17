@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Projects\x0ka1n3\redberry\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Buttons\BS Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buttons\BS Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buttons\Buttons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumberedRTB\NRTB Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opened Tabs Control\Context Menu\CM Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opened Tabs Control\Context Menu\CM Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opened Tabs Control\OTC Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Redberry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Greek Alphabet\GA Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Greek Alphabet\GA Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu Strip\MS Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu Strip\MS Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opened Tabs Control\OTC Functions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumberedRTB\NumberedRTBAbo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Translations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
